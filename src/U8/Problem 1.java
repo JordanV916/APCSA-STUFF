@@ -1,4 +1,5 @@
 package U2;
+
 class Doggy {
   private String name;
   private String breed;
