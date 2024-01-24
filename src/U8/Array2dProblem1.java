@@ -1,3 +1,5 @@
+package U8;
+
 public class Array2dProblem1 {
     public static void main(String[] args) {
         int[][] arr = {{1,2},{3,4}};;

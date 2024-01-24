@@ -1,3 +1,5 @@
+package U7;
+
 import java.util.*;
 public class ArrayProblem5 {
     public static void main(String[] args) {
