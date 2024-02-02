@@ -1,16 +1,7 @@
-public class Frog {
-public void movel) {
-System.out.println("The frog moved forward 3 hops.");
-｝
-public void move(int numHops) {
-System.out.println("The frog moved forward " + numHops + " hops.");
-}
-public void move(String direction, int hops) {
-System.out.print("The frog moved to the " + direction);
-System.out.println(" " + hops + " hops.");
-public static void main (Stringll args) 1
-Frog frog1 = new Frog();
-frog1.move();
-Frog frog2 = new Frog();
-frog2.move("left", 6);
-frog1.move(2);
+public double calAverage(int num1, double num2)(
+double average = (num1 + num2) / 2;
+return average;
+public double calAverage(int num1, int num2, double num3)(
+double average = (num1 + num2 + num3) / 3;
+return average;
+public static void main(Stringl] args) {
